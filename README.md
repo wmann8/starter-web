@@ -15,3 +15,7 @@ You serve butter.
 Deployed
 
 ## How To Contribute
+
+### Copyright
+
+2020 Wyatt.Mann
