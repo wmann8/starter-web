@@ -16,6 +16,8 @@ Deployed
 
 ## How To Contribute
 
+Please fork this repo, uwu
+
 ### Copyright
 
 2020 Wyatt.Mann
