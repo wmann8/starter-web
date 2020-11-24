@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple project yada yada
+This is another sentence
 
 ## Introduction
 
