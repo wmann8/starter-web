@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wyatt Mann Human wyatt@me
 
 # THANKS
 
