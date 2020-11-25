@@ -1,8 +1,7 @@
 # Starter Web Project
 
 This is a simple project yada yada
-This is another sentence, and then some.
-
+Emergency fix.
 ## Introduction
 
 Text goes here wheeee
