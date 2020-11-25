@@ -21,4 +21,4 @@ Please fork this repo, uwu
 
 ### Copyright
 
-2020 Wyatt.Mann
+2020 Wyatt.Mann All Rights to Remain Silent
